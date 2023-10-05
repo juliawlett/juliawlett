@@ -2,7 +2,6 @@
 
 ## Habilidades Tecnicas 
 <table>
-  <a href="https://github.com/leehxd">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="120" alt="React.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" alt="HTML5">
