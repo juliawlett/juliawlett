@@ -14,7 +14,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
 - 🏫 Cursando o Terceiro Ano do Ensino Médio na Instituição Sesi Escola<br>
 - 🎓 **Tec.em Análise e Desenvolvimento de Sistemas** na [Senai FATEC](https://www.fatecsenaimt.ind.br/).<br>
-- 💼 Trabalhando como **Auxiliar Admin.** na [EMPRESA](https://www.weeke.com.br/)
+- 💼 Trabalhando como **Auxiliar Admin.** na [Weeke](https://www.weeke.com.br/)
 </div>
 
 
