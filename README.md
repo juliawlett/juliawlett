@@ -9,10 +9,9 @@
 </div>
 
 
-<div>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
-- 🎓 Concluido **Tec.em Análise e Desenvolvimento de Sistemas** na [Senai FATEC](https://www.fatecsenaimt.ind.br/).<br>
-- 🏫 Estudando o 03 semestre de Tecnologo em Analise e Desenvolvimento de Sistemas na [UNIC](https://www.unic.com.br/)<br>
+- 🎓 Concluido **Tec.em Análise e Dev de Sistemas** na [Senai FATEC](https://www.fatecsenaimt.ind.br/).<br>
+- 🏫 Estudando o 03 semestre de Tecnologo em Analise e Dev. de Sistemas na [UNIC](https://www.unic.com.br/)<br>
 - 💼 Trabalhando como **Dev. Front-End UI/UX** na empresa [Weeke](https://www.weeke.com.br/)
 </div>
 
