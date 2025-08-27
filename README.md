@@ -20,9 +20,6 @@ Sou uma desenvolvedora em início de carreira com experiência prática em **Fro
 - **Frameworks**: Bootstrap 5, React.js, Tailwind CSS
 - **Ferramentas**: Visual Studio Code, Git, GitHub
 
-### **Criação de Gráficos/Dashboard**
-- **Recharts**: Desenvolvimento de gráficos interativos e dashboards, proporcionando visualizações dinâmicas e informativas para análise de dados.
-  
 ### **Back-End & Banco de Dados**
 - **Node.js**: Criação de APIs, controllers, helpers e gerenciamento de rotas
 - **PHP**: Conceitos básicos e uso para criação de scripts simples.
