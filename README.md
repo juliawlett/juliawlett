@@ -1,62 +1,73 @@
-# Olá, sou a Júlia Letícia! 👩‍💻
-🔗 [Linkedin](https://www.linkedin.com/in/juliawlett/) | 📧 [Email](mailto:dev.julialeticia@gmail.com) | 📍 Cuiabá/MT
+# 👩‍💻 Olá, eu sou a Júlia Letícia!  
 
-**Estagiária Front-End | Dev. em Formação | Envolvida com UX/UI Design | Buscando Oportunidades em Back-End**
+🔗 [Linkedin](https://www.linkedin.com/in/juliawlett/) | 📧 [Email](mailto:dev.julialeticia@gmail.com) | 📍 Cuiabá/MT  
 
----
-
-## 🚀 Sobre Mim
-
-Sou uma desenvolvedora em início de carreira com experiência prática em **Front-End**, atualmente em busca de oportunidades para expandir meus conhecimentos em **Back-End** ou **Fullstack**. Tenho interesse tanto em design e criação de layouts, quanto em lógica de programação, gerenciamento de dados e desenvolvimento de soluções completas. Estou sempre em busca de novos aprendizados para melhorar e me aprimorar como profissional.
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=juliawlett&color=006bed)
 
 ---
 
-## 💡 Habilidades Técnicas
+## Sobre mim  
 
-### **Front-End & Design**
-- **HTML5**, **CSS3**, **JavaScript** (React.js, jQuery)
-- **UI/UX Design** (Figma, prototipação e design responsivo)
-- **Componentização**: Criação de componentes reutilizáveis para otimizar a estrutura de aplicações e melhorar a manutenibilidade do código.
-- **Frameworks**: Bootstrap 5, React.js, Tailwind CSS
-- **Ferramentas**: Visual Studio Code, Git, GitHub
-
-### **Back-End & Banco de Dados**
-- **Node.js**: Criação de APIs, controllers, helpers e gerenciamento de rotas
-- **PHP**: Conceitos básicos e uso para criação de scripts simples.
-- **MySQL**: Modelagem de banco de dados, consultas e manipulação de dados
-- **Validações e lógica de dados**: Experiência com a criação de lógicas de validação e controle de dados
-
-### **Ferramentas & Processos**
-- **Postman**: Testes de API e validação de respostas
-- **Trello & Figma**: Planejamento de projetos e prototipação visual
-- **Controle de versão**: Git e GitHub para gerenciamento de código
-- **Docker** (em andamento).
-
-### **Metodologias**
-- **Desenvolvimento Ágil**: Metodologias para entrega rápida e incremental.
-- **Prototipação de Interfaces**: Criação de protótipos dinâmicos e interativos para testar experiências.
-- **Testes de API**: Validação de serviços e endpoints utilizando Postman.
-  
----
-
-## 🌱 Soft Skills
-
-- **Adaptabilidade**: Capacidade de aprender novas tecnologias e aplicar rapidamente.
-- **Comunicação**: Facilidade em articular ideias técnicas e colaborar com equipes multidisciplinares.
-- **Resolução de problemas**: Pensamento crítico focado em encontrar soluções criativas e eficientes.
+- 🚀 Estagiária **Front-End**, em busca de expandir para **Back-End** e **Fullstack**.  
+- 🎨 Envolvida com **UX/UI Design**, prototipação e criação de interfaces responsivas.  
+- 💼 Atualmente trabalhando na **Weeke** (2024 - atual).  
+- 🌱 Aprendendo mais sobre **Node.js, Docker e boas práticas de arquitetura**.  
 
 ---
 
-## 💼 Experiência Profissional
+## 🚀 Minhas Skills  
 
-### **Weeke – Estágio em Desenvolvimento Front-End (2024 - Atual)**
+**Front-End & Design**  
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD" />
+  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E" />
+</div>
 
-- Desenvolvimento de aplicações reais com **JavaScript**, focando em lógica de front-end.
-- Criação de **layouts responsivos** e implementação de designs com **HTML**, **CSS**, **JavaScript**.
-- Colaboração com a equipe para integrar design e código, garantindo uma **experiência de usuário fluida**.
+**Back-End & Banco de Dados**  
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
+</div>  
+
+**Utilidades & DevOps**  
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" />
+</div>
 
 ---
 
-## 🌱 Objetivos
+## 📊 GitHub Stats  
 
-Atualmente, estou em busca de novas oportunidades para expandir minhas habilidades, especialmente em **Back-End** ou **Fullstack**, e contribuir com soluções inovadoras em projetos desafiadores. Estou comprometida com o **aprendizado contínuo** e a melhoria constante.
+<a href="https://github.com/juliawlett">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliawlett&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/juliawlett">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliawlett&layout=compact&theme=dracula" />
+</a>
+
+---
+
+## 🌎 Onde me encontrar  
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="https://www.linkedin.com/in/juliawlett/">
+    <img src="https://img.shields.io/badge/-Julia%20Leticia-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dev.julialeticia@gmail.com">
+    <img src="https://img.shields.io/badge/-dev.julialeticia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/juliawlett">
+    <img src="https://img.shields.io/github/followers/juliawlett?label=follow&style=social" />
+  </a>
+</div>
